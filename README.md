@@ -1,10 +1,7 @@
-# Food Tracker
+# Meal Tracker
 
 This is a food-tracking application built using **Django 4**, **HTML 5**, **CSS 3**, and **Bootstrap 5** with a **Bootswatch** theme. The app uses a **PostgreSQL** database to store data. Charts were built using **Chart.js 2**.
 
-![plot](https://github.com/BobsProgrammingAcademy/Food-Tracker-Django-Bootstrap/blob/main/static/images/FoodList.png?raw=true)
-
-![plot](https://github.com/BobsProgrammingAcademy/Food-Tracker-Django-Bootstrap/blob/main/static/images/FoodLog.png?raw=true)
 
 
 ## Table of Contents
@@ -14,7 +11,7 @@ This is a food-tracking application built using **Django 4**, **HTML 5**, **CSS 
 - [Running the application](#run-the-application)
 - [Running the tests](#run-the-tests)
 - [Adding data to the application](#add-data-to-the-application)
-- [Copyright and License](#copyright-and-license)
+
 
 
 ## Prerequisites
@@ -163,6 +160,3 @@ Add data through Django Admin.
 
 Go to http://127.0.0.1:8000/admin to access the Django Admin interface and sign in using the admin credentials.
 
-## Copyright and License
-
-Copyright © 2022 Bob's Programming Academy. Code released under the MIT license.
